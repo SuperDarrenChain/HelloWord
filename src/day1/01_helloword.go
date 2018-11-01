@@ -13,6 +13,8 @@ func main() {
 
 
    fmt.Printf("%T,%v",name,name)
+	fmt.Printf("%T,%v",name,name)
+
 
 
 
